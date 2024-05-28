@@ -10,8 +10,8 @@ typedef NodoListaEnlazada *ListaEnlazada;
 
 struct  NodoListaEnlazada
 {
-    /* COMPLETAR */
-
+    int valor; 
+    ListaEnlazada puntero_siguiente; 
 };
 
 /**
