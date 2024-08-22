@@ -5,8 +5,11 @@
 ## Introducción
 
 Los tres tipos de datos básicos de C son los enteros, los numeros reales o numeros de coma flotante, y los caracteres:
+
 -Enteros: pueden ser de tipo `int`, `short`, `long` y `unsigned`.
+
 -Reales: pueden ser del tipo `float`, `double` o `long double`
+
 -Caracteres: son las letras, digitos, simbolos y signos de puntuación. Son del tipo `char` (Aguilar y Martinez, 2002).
 
 Un tipo de dato abstracto (TDA) se puede definir como un modelo matematico en el cual estan definidas determinadas operaciones (Aho et al, 1988).
